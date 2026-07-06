@@ -7,7 +7,7 @@ This repository contains the Jupyter Notebook supplementary material for:
 - Journal of Chemical Education, 2026
 
 ## Contents
-- `Jupyter Notebook file - Water_for_all.ipynb`: main supplementary notebook
+- `Jupyter Notebook file - Water_for_all.ipynb`: main supplementary Jupyter notebook 
 - `adsorptie-resultaten.csv`: example (real) adsorption data. The data could be used to fit model equations through it.
 - `desorptie-resultaten.csv`: example (real) desorption data. The data could be used to fit model equations through it.
 
